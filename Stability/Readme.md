@@ -6,7 +6,7 @@ To produce figures like Figure 4(a), type:
 
 Stability_Plot(R, k);
 
-where R denotes the width of the spatial heterogeneity and k is the angular fourier index of the linear eigenfunction.
+where R denotes the width of the spatial heterogeneity and k is the angular Fourier index of the linear eigenfunction.
 
 To produce figures like Figure 5, type: 
 
