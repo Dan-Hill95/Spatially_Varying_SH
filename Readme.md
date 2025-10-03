@@ -1,4 +1,4 @@
-This repository contains the MATLAB files to reproduce the data and figures from 'Fully localised two-dimensional patterns emerging from spatial heterogeneity' by Dan J. Hill, David J.B. Lloyd and Matthew R. Turner (2025).
+This repository contains the MATLAB files to reproduce the data and figures from 'Global bifurcation of localised 2D patterns emerging from spatial heterogeneity' by Dan J. Hill, David J.B. Lloyd and Matthew R. Turner (2025).
 
 A copy of the paper can be found here: <-->
 
